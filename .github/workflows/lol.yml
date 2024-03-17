@@ -3,7 +3,7 @@ name: Cracker-RDP
 on: [push, workflow_dispatch]
 
 jobs:
-  build2:
+  build1:
 
     runs-on: windows-latest
 
